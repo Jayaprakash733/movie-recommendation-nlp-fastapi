@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # ----------------------------
 # Core API
@@ -8,6 +9,8 @@
 =======
 
 >>>>>>> 6046a9e (deployment changed 1)
+=======
+>>>>>>> 5baafeb (deployment changed 2)
 fastapi==0.111.0
 uvicorn==0.30.1
 python-dotenv==1.0.1
@@ -33,6 +36,7 @@ pandas==2.2.2
 numpy==2.0.1
 scipy==1.13.1
 scikit-learn==1.5.1
+<<<<<<< HEAD
 joblib==1.4.2
 <<<<<<< HEAD
 
@@ -44,3 +48,7 @@ streamlit==1.36.0
 =======
 streamlit==1.36.0
 >>>>>>> 6046a9e (deployment changed 1)
+=======
+
+streamlit==1.36.0
+>>>>>>> 5baafeb (deployment changed 2)
