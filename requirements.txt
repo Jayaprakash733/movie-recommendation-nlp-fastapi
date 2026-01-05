@@ -1,13 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # ----------------------------
 # Core API
 # ----------------------------
 >>>>>>> d940498 (backend deploy)
+=======
+
+>>>>>>> 6046a9e (deployment changed 1)
 fastapi==0.111.0
 uvicorn==0.30.1
 python-dotenv==1.0.1
 httpx==0.27.0
+<<<<<<< HEAD
 <<<<<<< HEAD
 pandas==2.2.2
 numpy==2.0.1
@@ -22,12 +27,20 @@ streamlit==1.36.0
 # ----------------------------
 numpy==2.1.0
 scipy==1.13.1
+=======
+>>>>>>> 6046a9e (deployment changed 1)
 pandas==2.2.2
+numpy==2.0.1
+scipy==1.13.1
 scikit-learn==1.5.1
 joblib==1.4.2
+<<<<<<< HEAD
 
 # ----------------------------
 # Frontend (optional)
 # ----------------------------
 streamlit==1.36.0
 >>>>>>> d940498 (backend deploy)
+=======
+streamlit==1.36.0
+>>>>>>> 6046a9e (deployment changed 1)
