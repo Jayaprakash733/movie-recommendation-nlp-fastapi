@@ -1,3 +1,8 @@
 .env
+<<<<<<< HEAD
+venv/
+__pycache__/
+=======
 .venv
 __pycache__
+>>>>>>> d940498 (backend deploy)
